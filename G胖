@@ -1,0 +1,4 @@
+cd /root/.openclaw/workspace
+git remote add origin https://github.com/mmmmmmingyu/gabe-diet-tracker.git
+git branch -M main
+git push -u origin main
